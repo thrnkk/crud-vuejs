@@ -1,13 +1,39 @@
-# simple-demo-vuejs
-Tela simples de demonstração do VueJS - Cadastro de Aluno/Nota
+<p align="center">
+  <img src="https://seeklogo.com/images/F/FURB-logo-051554756A-seeklogo.com.png">
+</p>
 
+## Descrição do Trabalho
 
-Esta é uma aplicação simples para demonstração do framework VueJS.
+Construa uma aplicação cliente (utilizando HTML, CSS e JavaScript) que permita consumir os serviços do WebService http://dummy.restapiexample.com/
 
-> ![App com VueJS](./assets/vuejs.png)
+Deve ser possível fazer as operações CRUD:
 
+C - Create <br>
+R - Read <br>
+U - Update <br>
+D - Delete <br>
 
-Para mais informções consulte as referências:
+### Requisitos:
 
-- [VueJS](https://vuejs.org/v2/guide/)
-- [Parcel e VueJS](https://parceljs.org/vue.html)
+<ul>
+  <li> Deve haver um formulário para criação de novos empregados; </li>
+  <li> Deve haver uma tabela, com a listagem de todos os empregados cadastrado </li>
+  <li> Em cada linha da tabela deve haver 2 opções: 
+  <ul>
+    <li> Editar: ao clicar neste link, deve ser possível editar os dados do empregado - pode-se reutilizar o formulário acima para fazer isto; </li>
+    <li> Excluir: ao clicar no link deve-se confirmar a operação, e caso afirmativo, excluir o registro; </li>
+  
+  </ul>
+  </li>
+</ul>
+  
+### Tecnologias Utilizadas
+
+<p align="center">
+  <img height="100px" widht="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ThRnk" ><img src="https://img.shields.io/badge/github-ThRnk-24292e"></a>
+  <a href="https://github.com/Luis-kuhn" ><img src="https://img.shields.io/badge/github-Luis--kuhn-24292e"></a>
+</p>
