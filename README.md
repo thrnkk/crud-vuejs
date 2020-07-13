@@ -13,7 +13,7 @@ R - Read <br>
 U - Update <br>
 D - Delete <br>
 
-### Requisitos:
+### Requisitos :heavy_check_mark:
 
 <ul>
   <li> Deve haver um formulário para criação de novos empregados; </li>
@@ -27,7 +27,7 @@ D - Delete <br>
   </li>
 </ul>
   
-### Tecnologias Utilizadas
+### Tecnologias Utilizadas :computer:
 
 <p align="center">
   <img height="100px" widht="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
@@ -37,3 +37,9 @@ D - Delete <br>
   <a href="https://github.com/ThRnk" ><img src="https://img.shields.io/badge/github-ThRnk-24292e"></a>
   <a href="https://github.com/Luis-kuhn" ><img src="https://img.shields.io/badge/github-Luis--kuhn-24292e"></a>
 </p>
+
+### Utilização :mega:
+
+1. É necessário utilizar o comando `npm install` dentro do diretório do projeto para baixar as dependências.
+2. Após a finalização, execute o comando `npm start`.
+3. Após executar a build do index.js o projeto irá rodar no link `http://localhost:1234/`
