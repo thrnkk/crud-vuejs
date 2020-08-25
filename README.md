@@ -33,13 +33,15 @@ D - Delete <br>
   <img height="100px" widht="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ThRnk" ><img src="https://img.shields.io/badge/github-ThRnk-24292e"></a>
-  <a href="https://github.com/Luis-kuhn" ><img src="https://img.shields.io/badge/github-Luis--kuhn-24292e"></a>
-</p>
-
 ### Utilização :mega:
 
 1. É necessário utilizar o comando `npm install` dentro do diretório do projeto para baixar as dependências.
 2. Após a finalização, execute o comando `npm start`.
 3. Após executar a build do index.js o projeto irá rodar no link `http://localhost:1234/`
+
+---
+
+<p align="center">
+  <a href="https://github.com/thrnkk" ><img src="https://img.shields.io/badge/github-thrnkk-24292e"></a>
+  <a href="https://github.com/Luis-kuhn" ><img src="https://img.shields.io/badge/github-Luis--kuhn-24292e"></a>
+</p>
